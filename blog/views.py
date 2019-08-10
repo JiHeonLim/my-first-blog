@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from django.shortcuts import render
 from django.utils import timezone
 from .models import Post     #.은 현재 디렉토리또는 어필리케이션 의미함
 
